@@ -8,7 +8,3 @@ Layout design (Adobe Photoshop), frontend development, Wordpress theme implement
 
 **The technology stack:**
 HTML, CSS, JS, Wordpress, ACF
-
-**Check online** --> https://www.magdachudzik.pl/en/home/
-
-[![Photo portfolio](./images/gh/mockup2.jpg)](https://magdachudzik.pl)
